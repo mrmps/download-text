@@ -55,7 +55,7 @@ const TextToFileDownloader = () => {
       <div className="flex justify-end mb-4">
         <a 
           className="flex max-w-fit items-center justify-center space-x-2 rounded-full border border-zinc-200 bg-white px-4 py-2 text-sm text-gray-600 shadow-sm transition-colors hover:bg-gray-100"
-          href="https://github.com/mrmps/SMRY"
+          href="https://github.com/mrmps/download-text"
           target="_blank"
           rel="noopener noreferrer"
         >

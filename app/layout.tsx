@@ -12,10 +12,10 @@ export const metadata: Metadata = {
     title: 'Text to File Downloader',
     description: 'Convert any text to a downloadable .txt file in seconds',
     type: 'website',
-    url: 'https://downloadtext.vercel.app',
+    url: 'https://download-text.vercel.app',
     images: [
       {
-        url: 'https://downloadtext.vercel.app/og-image.png',
+        url: 'https://download-text.vercel.app/og-image.png',
         width: 1200,
         height: 630,
         alt: 'Text to File Downloader',
@@ -26,7 +26,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Text to File Downloader',
     description: 'Convert any text to a downloadable .txt file in seconds',
-    images: ['https://your-website-url.com/og-image.jpg'],
+    images: ['download-text.vercel.app/og-image.png'],
   },
 }
 
